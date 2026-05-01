@@ -22,7 +22,3 @@ A simple calculator project using Python functions and separate files to study g
 
 ```bash
 python main.py
-
-| Name | Role |
-|------|------|
-| Tushar Mondal | Developer |
